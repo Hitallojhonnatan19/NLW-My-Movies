@@ -92,7 +92,7 @@ section ul{
 .MyAnimes img{
 
     width: 90px;
-    border: 8px;
+    border-radius: 8px;
 }
 
 /* animation */
@@ -122,12 +122,12 @@ main section{
 
 main section:nth-child(1){
 
-    animation-delay: .3s ;
+    animation-delay: .3s;
 }
 
 main section:nth-child(2){
 
-    animation-delay: .6s ;
+    animation-delay: .6s;
 }
 
 main section:nth-child(3){
