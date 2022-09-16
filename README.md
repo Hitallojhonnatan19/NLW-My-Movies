@@ -1,11 +1,11 @@
 # Desafio NLW - Trilha Explorer
 
-!preview []
+![preview](./Assets/Preview.png)
 
 
 
-
-## Tecnologias
+🔗[Clique aqui para Visualizar](https://hitallojhonnatan19.github.io/NLW-My-Movies/)
+## 🛠Tecnologias
 
 - HTML
 - CSS
